@@ -82,7 +82,9 @@ Welcome to my GitHub profile! I'm a passionate developer interested in building 
 ## 📫 How to Reach Me
 
 - **GitHub:** [@ziexbie](https://github.com/ziexbie)
-- **mail** [ziexbie@gmail.com]
+- **mail** ziexbie@gmail.com
+- **instagram** @ziexbie
+- **leetcode** @ziexbie
 - **Open to:** Collaborations, mentorship, and interesting projects
 - Feel free to open an issue or reach out for discussions!
 
